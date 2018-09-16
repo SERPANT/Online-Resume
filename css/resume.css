@@ -245,5 +245,42 @@ footer {
 }
 
 #exprience_infocontainer,#education_infocontainer{
-    margin-top:35px
+    margin-top:30px
+}
+
+.nobottom{
+    margin-bottom:0px
+}
+
+.location_subheading{
+    margin-top:4px
+}
+
+.subheading{
+    color: #94a3ba
+}
+
+.detail_paragraph{
+    width: 320px
+}
+
+
+.main_subheading{
+    color: black ;
+    margin-top: 80px ; 
+    padding:20px;
+    padding-bottom: 0px
+}
+
+.background_white{
+    background: white
+}
+
+.width100{
+    width: 100% ;
+}
+
+.hobbies_paddingttop
+{
+    padding-top: 30px;
 }
