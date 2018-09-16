@@ -193,7 +193,7 @@ body{
     font-size: 20px;
     
     position: absolute;
-    top:25%;
+    top:35%;
     left: 25%;
     
 }
@@ -283,4 +283,26 @@ footer {
 .hobbies_paddingttop
 {
     padding-top: 30px;
+}
+
+#hobbies_image_container
+{
+    margin-top:35px
+}
+
+.parallex_text_container{
+    margin:200px ;
+    margin-top:100px;
+    margin-bottom: 100px;
+    padding-top: 50px
+}
+
+#skill_list_container{
+    position: relative;
+     margin-top: 60px;
+     margin-left:100px
+}
+
+#quick_detail_container{
+    position: absolute; left:38%
 }
